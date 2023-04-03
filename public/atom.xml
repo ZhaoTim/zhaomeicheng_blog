@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">Tim&#39;sBlog</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2023-03-29T23:24:19&#43;08:00</updated>
+    <id>https://www.zhaomeicheng.com/</id>
+    <link rel="alternate" type="text/html" href="https://www.zhaomeicheng.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://www.zhaomeicheng.com/atom.xml" />
+    <author>
+            <name>赵美成</name>
+            <uri>https://www.zhaomeicheng.com</uri>
+            
+                <email>zhaomeicheng1@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
+        <entry>
+            <title type="text">一些聊胜于无的自拍</title>
+            <link rel="alternate" type="text/html" href="https://www.zhaomeicheng.com/posts/hello-world/" />
+            <id>https://www.zhaomeicheng.com/posts/hello-world/</id>
+            <updated>2023-03-29T19:40:01&#43;08:00</updated>
+            <published>2023-03-29T18:48:13&#43;08:00</published>
+            <author>
+                    <name>赵美成</name>
+                    <uri>https://www.zhaomeicheng.com</uri>
+                    <email>zhaomeicheng1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;iframe src=&#39;test.html&#39;&gt;&lt;/iframe&gt;
+&lt;script&gt;
+  const container = document.createElement(&#39;div&#39;);
+  const images = [&#39;https://i.v2ex.co/Ie6u2D3M.jpeg&#39;, &#39;https://i.v2ex.co/AZtXdeD9.jpeg&#39;, &#39;https://i.v2ex.co/Q7ia6n8w.jpeg&#39;, &#39;https://i.v2ex.co/RlH8s4HK.jpeg&#39;, &#39;https://i.v2ex.co/Xvz1v035.jpeg&#39;, &#39;https://i.v2ex.co/OGY75NWP.jpeg&#39;, &#39;https://i.v2ex.co/9UbXsFs8.jpeg&#39;, &#39;https://i.v2ex.co/cIu56R68.jpeg&#39;, &#39;https://i.v2ex.co/VMoxAf3T.jpeg&#39;, &#39;https://i.v2ex.co/MT72i5HI.jpeg&#39;, &#39;https://i.v2ex.co/676RzadJ.jpeg&#39;, &#39;https://i.v2ex.co/JyQRqKMv.jpeg&#39;, &#39;https://i.v2ex.co/5o710l17.jpeg&#39;, &#39;https://i.v2ex.co/j627gOqW.jpeg&#39;, &#39;https://i.v2ex.co/HaSXyfq3.jpeg&#39;, &#39;https://i.v2ex.co/leoU4AV5.jpeg&#39;, &#39;https://i.v2ex.co/IlPe1H6A.jpeg&#39;, &#39;https://i.v2ex.co/72p7iHe4.jpeg&#39;, &#39;https://i.v2ex.co/D2dGpLqJ.jpeg&#39;, &#39;https://i.v2ex.co/Q67gaebU.jpeg&#39;, &#39;https://i.v2ex.co/f0LfsD8x.jpeg&#39;, &#39;https://i.v2ex.co/fiTeuoy0.jpeg&#39;, &#39;https://i.v2ex.co/3X00EEyf.jpeg&#39;, &#39;https://i.v2ex.co/zPzm2abq.jpeg&#39;, &#39;https://i.v2ex.co/m8i0Iz84.jpeg&#39;]
+  images.forEach(src =&gt; {
+    const img = new Image();
+    img.src = src;
+    img.style[&#39;margin&#39;] = 0;
+    img.style[&#39;margin-bottom&#39;] = &#39;10px&#39;;
+    container.append(img);
+  });
+  container.style[&#39;column-count&#39;] =  2;
+  container.style[&#39;column-gap&#39;] = &#39;10px&#39;;
+  document.querySelector(&#39;.post-body&#39;).append(container);
+&lt;/script&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
