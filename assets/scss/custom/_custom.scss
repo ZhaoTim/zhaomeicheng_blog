@@ -11,3 +11,14 @@ code, pre, sup, .post-meta, .updated-badge, .post-gitinfo, .minimal-footer, .min
     font-family: "glyph-correction","Source Code Pro","Noto Serif SC",monospace !important;
   }
 }
+
+.main {
+  padding-top: 58px;
+}
+.single .main-inner, .list .main-inner {
+  width: 580px;
+}
+
+.post-body {
+  margin-top: 2.2em !important;
+}

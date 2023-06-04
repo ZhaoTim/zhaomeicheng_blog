@@ -197,10 +197,10 @@ uglyURLs = false
     #     post = "home"
     [[menu.main]]
         pageref = "/posts/"
-        name = "所有"
+        name = "👉🏻进入我的世界"
         weight = 2
         pre = "internal"
-        post = "archive"
+        post = ""
     # [[menu.main]]
     #     pageref = "/categories/"
     #     name = "分类"
@@ -988,7 +988,7 @@ uglyURLs = false
     ######################################
     ## 字号（单位：px）
 
-    fontSize = 16
+    fontSize = 20
 
     ######################################
     ## 制表符的宽度
