@@ -1,0 +1,13 @@
+
+@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css');
+
+
+* {
+  font-family: "LXGW WenKai", sans-serif !important;
+}
+
+code, pre, sup, .post-meta, .updated-badge, .post-gitinfo, .minimal-footer, .minimal-footer-about, .busuanzi-site-uv-and-pv, .copy-button {
+  * {
+    font-family: "glyph-correction","Source Code Pro","Noto Serif SC",monospace !important;
+  }
+}
